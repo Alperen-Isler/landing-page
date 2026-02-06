@@ -190,3 +190,14 @@ button:hover{
     background-color: #69a0f8;
     cursor: pointer;
 }
+
+.footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color: white;
+    padding: 30px;
+    font-size: 15px;
+    margin-top: 50px;
+}
