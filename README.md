@@ -26,10 +26,3 @@ Through this project, I practiced:
 ## Live Preview
 
 👉 https://Alperen-Isler.github.io/landing-page/
-
-
-
-
-
-
-
