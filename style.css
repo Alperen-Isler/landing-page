@@ -70,11 +70,6 @@ a:hover{
     border-radius: 10px;
 }
 
-.book-a-table:hover{
-    background-color: #69a0f8;
-    cursor: pointer;
-}
-
 .section-two{
     display: flex;
     flex-direction: column;
@@ -152,4 +147,46 @@ a:hover{
     font-weight: bold;
     margin-left: auto;
     padding-bottom: 50px;
+}
+
+.section-four{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    background-color: #3882F6;
+    border-radius: 10px;
+    margin-right: 150px;
+    margin-left: 150px;
+    margin-top: 50px;
+    padding: 30px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.header-book{
+    font-size: 35px;
+}
+
+.text-book{
+    font-size: 20px;
+    margin-top: 5px;
+}
+
+.section-four button{
+    margin-left: auto;
+    color: #F9FAF8;
+    background-color: #3882F6;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: solid 2px white;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+button:hover{
+    background-color: #69a0f8;
+    cursor: pointer;
 }
