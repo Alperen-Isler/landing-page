@@ -128,3 +128,28 @@ a:hover{
     font-size: 20px;
     font-weight: bold;
 }
+
+.section-three{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    background-color: #E5E7EB;
+    padding-right: 200px;
+    padding-left: 200px;
+}
+
+.quote{
+    padding-top: 50px;
+    font-size: 28px;
+    color: #1F2937;
+    font-weight: 300px;
+}
+
+.quote-name{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: auto;
+    padding-bottom: 50px;
+}
